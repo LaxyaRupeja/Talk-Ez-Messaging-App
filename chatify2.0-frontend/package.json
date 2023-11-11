@@ -1,0 +1,43 @@
+{
+  "name": "chatify2.0-frontend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emoji-mart/data": "^1.1.2",
+    "@emoji-mart/react": "^1.1.1",
+    "@nextui-org/react": "^2.1.13",
+    "axios": "^1.5.1",
+    "emoji-mart": "^5.5.2",
+    "emoji-picker-react": "^4.5.5",
+    "framer-motion": "^10.16.4",
+    "react": "^18.2.0",
+    "react-auth-kit": "^3.0.0-alpha.18",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.11.0",
+    "react-responsive": "^9.0.2",
+    "react-router-dom": "^6.17.0",
+    "socket.io-client": "^4.7.2",
+    "sonner": "^1.0.3"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "@vitejs/plugin-react": "^4.0.3",
+    "autoprefixer": "^10.4.16",
+    "daisyui": "^3.9.3",
+    "eslint": "^8.45.0",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.3",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.3",
+    "vite": "^4.4.5"
+  }
+}
