@@ -10,17 +10,17 @@ Talk-Ez is a real-time chat application built using React, Tailwind CSS, Next.js
 
 ## Features
 
-- **Normal Auth:** Users can create accounts and log in with email and password.
-- **Google Auth:** Convenient sign-in option using Google.
-- **Group Chatting:** Users can create and join group chats.
-- **Individual Chatting:** Private messaging between users.
-- **Group Settings:** Group owners can edit the group name, change the group picture, and add or remove members.
-- **Media Sharing:** Allows users to share pictures within chats.
-- **Delete, Edit, Copy:** Users can delete, edit, and copy chat messages to the clipboard.
-- **User Profile:** Edit your name, change your profile picture, and update your password.
-- **Forgot Password:** Reset your password if you forget it.
-- **Fully Responsive:** The application is designed to work seamlessly on various devices.
-- **Emoji Support:** Express emotions with emoji support.
+- **Email-Based Authentication:** Create an account and log in securely using your email and a chosen password.
+- **Google Sign-In:** Streamline the login process with Google's secure authentication.
+- **Group Chat:** Engage in group conversations, fostering collaboration and group communication.
+- **Individual Messaging:** Keep your conversations private with one-on-one chat functionality.
+- **Group Management:** Group administrators can easily edit group details, such as group names, profile pictures, and member management.
+- **Media Sharing:** Share images within chats to enhance communication.
+- **Message Control:** Manage your chat messages with options to delete, edit, or copy for effective communication.
+- **Profile Customization:** Personalize your chat experience by updating your name, profile picture, and password.
+- **Password Recovery:** Conveniently reset your password if you ever forget it.
+- **Responsive Design:** Enjoy a consistent user experience across various devices, thanks to our responsive design.
+- **Emoji Support:** Enhance your expression with emoji support in your conversations.
 
 ## Tech Stack
 
